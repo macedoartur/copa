@@ -93,7 +93,7 @@ a {
 h1 {
   margin-bottom: 60px;
   text-align: center;
-  font: 300 2.25em "Lato";
+  font: 350 3.25em "Lato";
   text-transform: uppercase;
 }
 /* line 40, ../sass/style.scss */
@@ -106,7 +106,7 @@ h1 strong {
 h2 {
   margin-bottom: 80px;
   text-align: center;
-  font: 300 0.7em "Lato";
+  font: 300 2em "Lato";
   text-transform: uppercase;
 }
 /* line 52, ../sass/style.scss */
@@ -133,8 +133,8 @@ h2 strong {
 .countdown .count-title {
   display: block;
   margin-bottom: 15px;
-  font: normal 0.94em "Lato";
-  color: #1a1a1a;
+  font: normal 1.5em "Lato";
+  color: #021523;
   text-transform: uppercase;
 }
 /* line 81, ../sass/style.scss */
