@@ -17,7 +17,7 @@ var Countdown = {
             minutes: this.$el.find('.bloc-time.min .figure'),
             seconds: this.$el.find('.bloc-time.sec .figure')
         };
-        var t = Date.parse('June 14 2018 12:00:00 GMT-0300') - Date.parse(new Date());
+        var t = Date.parse('June 14 2026 12:00:00 GMT-0300') - Date.parse(new Date());
         var segundos = Math.floor((t / 1000) % 60);
         var minutos = Math.floor((t / 1000 / 60) % 60);
         var horas = Math.floor((t / (1000 * 60 * 60)) % 24);
